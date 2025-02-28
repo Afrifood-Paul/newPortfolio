@@ -38,7 +38,7 @@ const Portfolio = () => {
         </div>
 
         {/* Web3 Blog */}
-        <div className="box">
+        {/* <div className="box">
           <img src={images.project2} />
           <div className="content">
             <h3>Hamonie Spring Schools</h3>
@@ -50,16 +50,16 @@ const Portfolio = () => {
               >
                 <FaLink />
               </a>
-              {/* <a
+              <a
               href="https://github.com/Benedict-Anthony/web3.0-blog-chain"
               target="_blank"
               rel="noopener noreferrer"
               >
                 <FaGithub />
-              </a> */}
+              </a>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* Bookmark Landing Page */}
         <div className="box">
